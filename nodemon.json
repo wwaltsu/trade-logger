@@ -1,0 +1,6 @@
+{
+  "watch": ["server.ts", "next.config.ts"],
+  "ext": "ts,js",
+  "exec": "tsx server.ts",
+  "delay": 300
+}
